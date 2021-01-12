@@ -6,6 +6,8 @@ For many people, working in a consistent space for consistent tasks helps focus 
 ## Download
 Jar (requires JVM installed): [workspots.jar](workspots.jar)
 
+If it isn't executable at first, run `chmod +x workspots.jar` on the command line.
+
 ## Version History
 ### Version 2 - Current
 This version is a GUI using Java Swing. It was already partially written in Java, so as a practice in event-listeners and action-based programs, I turned the program into a GUI in the language it was written in. For similar projects in the future, I would use newer resources geared towards user-interaction like ReactJS rather than Swing. This project was for personal use, so I created a .jar file and wrapped it in a .app file for convenient use.
